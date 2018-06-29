@@ -1,0 +1,54 @@
+C:\project\CefSharp-v1.25.8-binaries\Debug\CefSharp.WinForms.Example.exe.config
+C:\project\CefSharp-v1.25.8-binaries\Debug\CefSharp.WinForms.Example.exe
+C:\project\CefSharp-v1.25.8-binaries\Debug\CefSharp.WinForms.Example.pdb
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.csprojResolveAssemblyReference.cache
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.AboutBox.resources
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.Browser.resources
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.ChatForm.resources
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.Properties.Resources.resources
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.csproj.GenerateResource.Cache
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.exe
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.pdb
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.ChatRecordForm.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql\Debug\CefSharp.WinForms.Example.exe.config
+C:\project\CefSharp-v1.25.8-binaries-mysql\Debug\CefSharp.WinForms.Example.exe
+C:\project\CefSharp-v1.25.8-binaries-mysql\Debug\CefSharp.WinForms.Example.pdb
+C:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.csprojResolveAssemblyReference.cache
+C:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.AboutBox.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.Browser.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.ChatForm.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.Properties.Resources.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.csproj.GenerateResource.Cache
+C:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.exe
+C:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.pdb
+C:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.LoginForm.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.csprojResolveAssemblyReference.cache
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.AboutBox.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.Browser.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.ChatForm.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.LoginForm.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.Properties.Resources.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.csproj.GenerateResource.Cache
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.csproj.App.config
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\Debug\daishu_message.exe.config
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\Debug\daishu_message.exe.manifest
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\Debug\daishu_message.application
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\Debug\daishu_message.exe
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\Debug\daishu_message.pdb
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\daishu_message.TrustInfo.xml
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\daishu_message.exe.manifest
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\daishu_message.application
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\daishu_message.exe
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\obj\Debug\daishu_message.pdb
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.csproj.App.config
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.csprojResolveAssemblyReference.cache
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.ChatForm.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.LoginForm.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.Properties.Resources.resources
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.csproj.GenerateResource.Cache
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\obj\Debug\daishu_message.exe
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\obj\Debug\daishu_message.pdb
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\Debug\daishu_message.exe.config
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\Debug\daishu_message.exe
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\Debug\daishu_message.pdb
+C:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\obj\Debug\CefSharp.WinForms.Example.LoadingForm.resources

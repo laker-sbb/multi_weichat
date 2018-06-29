@@ -1,0 +1,7 @@
+记录时间：2016-12-21 18:00:00,683 线程ID:[13] 日志级别：INFO  出错类：CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper property:[(null)] - 错误描述：database is open
+记录时间：2016-12-21 18:06:08,015 线程ID:[13] 日志级别：INFO  出错类：CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper property:[(null)] - 错误描述：data copy completed
+记录时间：2016-12-21 18:06:08,115 线程ID:[13] 日志级别：ERROR 出错类：CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper property:[(null)] - 错误描述：已添加项。字典中的关键字:“14823120583000354”所添加的关键字:“14823120583000354”
+记录时间：2016-12-21 19:16:34,335 线程ID:[13] 日志级别：INFO  出错类：CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - 错误描述：data copy completed
+记录时间：2016-12-21 19:16:34,470 线程ID:[13] 日志级别：ERROR 出错类：CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_parse_request_response - 错误描述：已添加项。字典中的关键字:“14823120583000354”所添加的关键字:“14823120583000354”
+记录时间：2016-12-21 19:29:45,901 线程ID:[12] 日志级别：INFO  出错类：CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - 错误描述：data copy completed
+记录时间：2016-12-21 19:29:46,109 线程ID:[12] 日志级别：ERROR 出错类：CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_parse_request_response - 错误描述：已添加项。字典中的关键字:“14823120583000354”所添加的关键字:“14823120583000354”

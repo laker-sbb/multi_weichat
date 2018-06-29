@@ -1,0 +1,9 @@
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.Example\bin\Release\CefSharp.Example.dll
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.Example\bin\Release\CefSharp.Example.pdb
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.Example\bin\Release\CefSharp.dll
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.Example\obj\Release\CefSharp.Example.csprojResolveAssemblyReference.cache
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.Example\obj\Release\CefSharp.Example.Properties.Resources.resources
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.Example\obj\Release\CefSharp.Example.csproj.GenerateResource.Cache
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.Example\obj\Release\CefSharp.Example.dll
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.Example\obj\Release\CefSharp.Example.pdb
+C:\project\CefSharp-v1.25.8-binaries\CefSharp.Example\bin\Release\CefSharp.xml

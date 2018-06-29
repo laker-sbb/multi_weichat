@@ -1,0 +1,125 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly CefSharp.Wpf, Version=1.25.8.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138: 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly CefSharp, Version=1.25.8.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138: 
+	hash=None, flags=None
+Assembly PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Class CefSharp.Wpf.WebView: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Windows.Controls.ContentControl
+    Void .ctor(System.String, CefSharp.BrowserSettings): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    CefSharp.IRenderWebBrowser
+    CefSharp.IWebBrowser
+    System.IDisposable
+    System.ComponentModel.INotifyPropertyChanged
+  Properties:
+    Double ZoomLevel 'get set' : 
+    CefSharp.IJsDialogHandler JsDialogHandler 'get set' : 
+    CefSharp.IKeyboardHandler KeyboardHandler 'get set' : 
+    CefSharp.IMenuHandler MenuHandler 'get set' : 
+    CefSharp.IRequestHandler RequestHandler 'get set' : 
+    CefSharp.ILoadHandler LoadHandler 'get set' : 
+    CefSharp.ILifeSpanHandler LifeSpanHandler 'get set' : 
+    System.String TooltipText 'get set' : 
+    System.String Title 'get set' : 
+    System.String Address 'get set' : 
+    Int32 ContentsHeight 'get set' : 
+    Int32 ContentsWidth 'get set' : 
+    Boolean CanGoForward 'get ' : 
+    Boolean CanGoBack 'get ' : 
+    Boolean IsLoading 'get ' : 
+    Boolean IsBrowserInitialized 'get ' : 
+  Events:
+    CefSharp.LoadStartedEventHandler LoadStarted: SpecialName
+    CefSharp.LoadCompletedEventHandler LoadCompleted: SpecialName
+    System.Windows.Input.KeyEventHandler BrowserKey: SpecialName
+    CefSharp.ConsoleMessageEventHandler ConsoleMessage: SpecialName
+    System.ComponentModel.PropertyChangedEventHandler PropertyChanged: SpecialName
+  Methods:
+    OnFrameLoadEnd(String, Boolean(HasFieldMarshal)): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    OnTakeFocus(Boolean(HasFieldMarshal)): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    OnConsoleMessage(String, String, Int32): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    RegisterJsObject(String, Object): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    GetBoundObjects(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    OnApplyTemplate(): PrivateScope, Public, Final, Virtual, HideBySig
+    SetPopupBuffer(Int32, Int32, Void*): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    SetPopupIsOpen(Boolean(HasFieldMarshal)): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    SetPopupSizeAndPosition(Void*): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+    SetCursor(IntPtr): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    SetBuffer(Int32, Int32, Void*): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    add_PropertyChanged(PropertyChangedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    remove_PropertyChanged(PropertyChangedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    add_ConsoleMessage(ConsoleMessageEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    remove_ConsoleMessage(ConsoleMessageEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    add_BrowserKey(KeyEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    remove_BrowserKey(KeyEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    add_LoadCompleted(LoadCompletedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    remove_LoadCompleted(LoadCompletedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    add_LoadStarted(LoadStartedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    remove_LoadStarted(LoadStartedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_IsBrowserInitialized(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_IsLoading(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_CanGoBack(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_CanGoForward(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_ContentsWidth(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_ContentsWidth(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_ContentsHeight(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_ContentsHeight(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_Address(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Address(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_Title(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Title(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_TooltipText(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_TooltipText(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_LifeSpanHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_LifeSpanHandler(ILifeSpanHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_LoadHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_LoadHandler(ILoadHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_RequestHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_RequestHandler(IRequestHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_MenuHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_MenuHandler(IMenuHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_KeyboardHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_KeyboardHandler(IKeyboardHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_JsDialogHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_JsDialogHandler(IJsDialogHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_ZoomLevel(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_ZoomLevel(Double): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    OnInitialized(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Load(String): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    LoadHtml(String, String): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    LoadHtml(String): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Stop(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Back(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Forward(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Reload(Boolean(HasFieldMarshal)): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Reload(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    ClearHistory(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    ShowDevTools(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    CloseDevTools(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Undo(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Redo(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Cut(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Copy(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Paste(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Delete(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    SelectAll(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Print(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    ExecuteScript(String): PrivateScope, Public, HideBySig
+    EvaluateScript(String, TimeSpan): PrivateScope, Public, HideBySig
+    EvaluateScript(String): PrivateScope, Public, HideBySig
+    SetNavState(Boolean(HasFieldMarshal), Boolean(HasFieldMarshal), Boolean(HasFieldMarshal)): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    OnFrameLoadStart(String, Boolean(HasFieldMarshal)): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask

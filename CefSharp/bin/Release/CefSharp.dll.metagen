@@ -1,0 +1,577 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly CefSharp, Version=1.25.8.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138: 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class CefSharp.RtzCountdownEvent: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    Int32 CurrentCount 'get ' : 
+  Methods:
+    get_CurrentCount(): PrivateScope, Public, HideBySig, SpecialName
+    AddCount(): PrivateScope, Public, HideBySig
+    AddCount(Int32): PrivateScope, Public, HideBySig
+    Signal(): PrivateScope, Public, HideBySig
+    Signal(Int32): PrivateScope, Public, HideBySig
+    Reset(): PrivateScope, Public, HideBySig
+    Wait(Int32): PrivateScope, Public, HideBySig
+    Wait(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class CefSharp.BrowserCore: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.ComponentModel.INotifyPropertyChanged
+  Properties:
+    CefSharp.IJsDialogHandler JsDialogHandler 'get set' : 
+    CefSharp.IKeyboardHandler KeyboardHandler 'get set' : 
+    CefSharp.IMenuHandler MenuHandler 'get set' : 
+    CefSharp.IRequestHandler RequestHandler 'get set' : 
+    CefSharp.ILoadHandler LoadHandler 'get set' : 
+    CefSharp.ILifeSpanHandler LifeSpanHandler 'get set' : 
+    System.String TooltipText 'get set' : 
+    System.String Title 'get set' : 
+    System.String Address 'get set' : 
+    Int32 ContentsHeight 'get set' : 
+    Int32 ContentsWidth 'get set' : 
+    Boolean CanGoForward 'get ' : 
+    Boolean CanGoBack 'get ' : 
+    Boolean IsLoading 'get ' : 
+    Boolean IsBrowserInitialized 'get ' : 
+  Events:
+    System.ComponentModel.PropertyChangedEventHandler PropertyChanged: SpecialName
+  Methods:
+    add_PropertyChanged(PropertyChangedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    remove_PropertyChanged(PropertyChangedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_IsBrowserInitialized(): PrivateScope, Public, HideBySig, SpecialName
+    get_IsLoading(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanGoBack(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanGoForward(): PrivateScope, Public, HideBySig, SpecialName
+    get_ContentsWidth(): PrivateScope, Public, HideBySig, SpecialName
+    set_ContentsWidth(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_ContentsHeight(): PrivateScope, Public, HideBySig, SpecialName
+    set_ContentsHeight(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Address(): PrivateScope, Public, HideBySig, SpecialName
+    set_Address(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Title(): PrivateScope, Public, HideBySig, SpecialName
+    set_Title(String): PrivateScope, Public, HideBySig, SpecialName
+    get_TooltipText(): PrivateScope, Public, HideBySig, SpecialName
+    set_TooltipText(String): PrivateScope, Public, HideBySig, SpecialName
+    get_LifeSpanHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_LifeSpanHandler(ILifeSpanHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_LoadHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_LoadHandler(ILoadHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_RequestHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_RequestHandler(IRequestHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_MenuHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_MenuHandler(IMenuHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_KeyboardHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_KeyboardHandler(IKeyboardHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_JsDialogHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_JsDialogHandler(IJsDialogHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    CheckBrowserInitialization(): PrivateScope, Public, HideBySig
+    RegisterJsObject(String, Object): PrivateScope, Public, HideBySig
+    GetBoundObjects(): PrivateScope, Public, HideBySig
+    SetNavState(Boolean(HasFieldMarshal), Boolean(HasFieldMarshal), Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    OnInitialized(): PrivateScope, Public, HideBySig
+    OnLoad(): PrivateScope, Public, HideBySig
+    OnFrameLoadStart(): PrivateScope, Public, HideBySig
+    OnFrameLoadEnd(): PrivateScope, Public, HideBySig
+Class CefSharp.BrowserSettings: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    Boolean FullscreenEnabled 'get set' : 
+    Boolean DeveloperToolsDisabled 'get set' : 
+    Boolean AcceleratedPluginsDisabled 'get set' : 
+    Boolean AcceleratedFiltersDisabled 'get set' : 
+    Boolean AcceleratedPaintingDisabled 'get set' : 
+    Boolean Accelerated2dCanvasDisabled 'get set' : 
+    Boolean AcceleratedLayersDisabled 'get set' : 
+    Boolean AcceleratedCompositingEnabled 'get set' : 
+    Boolean WebGlDisabled 'get set' : 
+    Boolean ApplicationCacheDisabled 'get set' : 
+    Boolean DatabasesDisabled 'get set' : 
+    Boolean LocalStorageDisabled 'get set' : 
+    Boolean AuthorAndUserStylesDisabled 'get set' : 
+    System.String UserStyleSheetLocation 'get set' : 
+    Boolean UserStyleSheetEnabled 'get set' : 
+    Boolean HyperlinkAuditingDisabled 'get set' : 
+    Boolean TabToLinksDisabled 'get set' : 
+    Boolean PageCacheDisabled 'get set' : 
+    Boolean TextAreaResizeDisabled 'get set' : 
+    Boolean SiteSpecificQuirksDisabled 'get set' : 
+    Boolean ShrinkStandaloneImagesToFit 'get set' : 
+    Boolean ImageLoadDisabled 'get set' : 
+    Boolean XssAuditorEnabled 'get set' : 
+    Boolean WebSecurityDisabled 'get set' : 
+    Boolean FileAccessFromFileUrlsAllowed 'get set' : 
+    Boolean UniversalAccessFromFileUrlsAllowed 'get set' : 
+    Boolean PluginsDisabled 'get set' : 
+    Boolean JavaDisabled 'get set' : 
+    Boolean CaretBrowsingEnabled 'get set' : 
+    Boolean DomPasteDisabled 'get set' : 
+    Boolean JavaScriptAccessClipboardDisallowed 'get set' : 
+    Boolean JavaScriptCloseWindowsDisallowed 'get set' : 
+    Boolean JavaScriptOpenWindowsDisallowed 'get set' : 
+    Boolean JavaScriptDisabled 'get set' : 
+    Boolean EncodingDetectorEnabled 'get set' : 
+    System.String DefaultEncoding 'get set' : 
+    Boolean RemoteFontsDisabled 'get set' : 
+    Int32 MinimumLogicalFontSize 'get set' : 
+    Int32 MinimumFontSize 'get set' : 
+    Int32 DefaultFixedFontSize 'get set' : 
+    Int32 DefaultFontSize 'get set' : 
+    System.String FantasyFontFamily 'get set' : 
+    System.String CursiveFontFamily 'get set' : 
+    System.String SansSerifFontFamily 'get set' : 
+    System.String SerifFontFamily 'get set' : 
+    System.String FixedFontFamily 'get set' : 
+    System.String StandardFontFamily 'get set' : 
+    Boolean HistoryDisabled 'get set' : 
+    Boolean LoadDropsDisabled 'get set' : 
+    Boolean DragDropDisabled 'get set' : 
+    Void* _internalBrowserSettings 'get ' : 
+  Methods:
+    set_ApplicationCacheDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_WebGlDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_WebGlDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_AcceleratedCompositingEnabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_AcceleratedCompositingEnabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_AcceleratedLayersDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_AcceleratedLayersDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_Accelerated2dCanvasDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_Accelerated2dCanvasDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_AcceleratedPaintingDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_AcceleratedPaintingDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_AcceleratedFiltersDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_AcceleratedFiltersDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_AcceleratedPluginsDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_AcceleratedPluginsDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_DeveloperToolsDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_DeveloperToolsDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_FullscreenEnabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_FullscreenEnabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+    get__internalBrowserSettings(): PrivateScope, Public, HideBySig, SpecialName
+    get_DragDropDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_DragDropDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_LoadDropsDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_LoadDropsDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_HistoryDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_HistoryDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_StandardFontFamily(): PrivateScope, Public, HideBySig, SpecialName
+    set_StandardFontFamily(String): PrivateScope, Public, HideBySig, SpecialName
+    get_FixedFontFamily(): PrivateScope, Public, HideBySig, SpecialName
+    set_FixedFontFamily(String): PrivateScope, Public, HideBySig, SpecialName
+    get_SerifFontFamily(): PrivateScope, Public, HideBySig, SpecialName
+    set_SerifFontFamily(String): PrivateScope, Public, HideBySig, SpecialName
+    get_SansSerifFontFamily(): PrivateScope, Public, HideBySig, SpecialName
+    set_SansSerifFontFamily(String): PrivateScope, Public, HideBySig, SpecialName
+    get_CursiveFontFamily(): PrivateScope, Public, HideBySig, SpecialName
+    set_CursiveFontFamily(String): PrivateScope, Public, HideBySig, SpecialName
+    get_FantasyFontFamily(): PrivateScope, Public, HideBySig, SpecialName
+    set_FantasyFontFamily(String): PrivateScope, Public, HideBySig, SpecialName
+    get_DefaultFontSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_DefaultFontSize(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_DefaultFixedFontSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_DefaultFixedFontSize(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_MinimumFontSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_MinimumFontSize(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_MinimumLogicalFontSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_MinimumLogicalFontSize(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_RemoteFontsDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_RemoteFontsDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_DefaultEncoding(): PrivateScope, Public, HideBySig, SpecialName
+    set_DefaultEncoding(String): PrivateScope, Public, HideBySig, SpecialName
+    get_EncodingDetectorEnabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_EncodingDetectorEnabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_JavaScriptDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_JavaScriptDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_JavaScriptOpenWindowsDisallowed(): PrivateScope, Public, HideBySig, SpecialName
+    set_JavaScriptOpenWindowsDisallowed(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_JavaScriptCloseWindowsDisallowed(): PrivateScope, Public, HideBySig, SpecialName
+    set_JavaScriptCloseWindowsDisallowed(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_JavaScriptAccessClipboardDisallowed(): PrivateScope, Public, HideBySig, SpecialName
+    set_JavaScriptAccessClipboardDisallowed(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_DomPasteDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_DomPasteDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_CaretBrowsingEnabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_CaretBrowsingEnabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_JavaDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_JavaDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_PluginsDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_PluginsDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_UniversalAccessFromFileUrlsAllowed(): PrivateScope, Public, HideBySig, SpecialName
+    set_UniversalAccessFromFileUrlsAllowed(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_FileAccessFromFileUrlsAllowed(): PrivateScope, Public, HideBySig, SpecialName
+    set_FileAccessFromFileUrlsAllowed(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_WebSecurityDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_WebSecurityDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_XssAuditorEnabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_XssAuditorEnabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_ImageLoadDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_ImageLoadDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_ShrinkStandaloneImagesToFit(): PrivateScope, Public, HideBySig, SpecialName
+    set_ShrinkStandaloneImagesToFit(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_SiteSpecificQuirksDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_SiteSpecificQuirksDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_TextAreaResizeDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_TextAreaResizeDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_PageCacheDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_PageCacheDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_TabToLinksDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_TabToLinksDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_HyperlinkAuditingDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_HyperlinkAuditingDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_UserStyleSheetEnabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_UserStyleSheetEnabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_UserStyleSheetLocation(): PrivateScope, Public, HideBySig, SpecialName
+    set_UserStyleSheetLocation(String): PrivateScope, Public, HideBySig, SpecialName
+    get_AuthorAndUserStylesDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_AuthorAndUserStylesDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_LocalStorageDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_LocalStorageDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_DatabasesDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_DatabasesDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_ApplicationCacheDisabled(): PrivateScope, Public, HideBySig, SpecialName
+Interface CefSharp.ICookieVisitor: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    Visit(Cookie, Int32, Int32, Boolean&): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Struct CefSharp.CookieVisitor: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class CefSharp.Settings: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    Boolean PackLoadingDisabled 'get set' : 
+    System.String LocalesDirPath 'get set' : 
+    Boolean AutoDetectProxySettings 'get set' : 
+    CefSharp.LogSeverity LogSeverity 'get set' : 
+    System.String LogFile 'get set' : 
+    System.String Locale 'get set' : 
+    System.String ProductVersion 'get set' : 
+    System.String UserAgent 'get set' : 
+    System.String CachePath 'get set' : 
+  Methods:
+    AddPluginPath(String): PrivateScope, Public, HideBySig
+    get_CachePath(): PrivateScope, Public, HideBySig, SpecialName
+    set_CachePath(String): PrivateScope, Public, HideBySig, SpecialName
+    get_UserAgent(): PrivateScope, Public, HideBySig, SpecialName
+    set_UserAgent(String): PrivateScope, Public, HideBySig, SpecialName
+    get_ProductVersion(): PrivateScope, Public, HideBySig, SpecialName
+    set_ProductVersion(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Locale(): PrivateScope, Public, HideBySig, SpecialName
+    set_Locale(String): PrivateScope, Public, HideBySig, SpecialName
+    get_LogFile(): PrivateScope, Public, HideBySig, SpecialName
+    set_LogFile(String): PrivateScope, Public, HideBySig, SpecialName
+    get_LogSeverity(): PrivateScope, Public, HideBySig, SpecialName
+    set_LogSeverity(LogSeverity): PrivateScope, Public, HideBySig, SpecialName
+    get_AutoDetectProxySettings(): PrivateScope, Public, HideBySig, SpecialName
+    set_AutoDetectProxySettings(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_LocalesDirPath(): PrivateScope, Public, HideBySig, SpecialName
+    set_LocalesDirPath(String): PrivateScope, Public, HideBySig, SpecialName
+    get_PackLoadingDisabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_PackLoadingDisabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Interface CefSharp.IRequest: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Properties:
+    System.String Body 'get ' : 
+    System.String Method 'get ' : 
+    System.String Url 'get set' : 
+  Methods:
+    get_Url(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_Url(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_Method(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_Body(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    GetHeaders(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    SetHeaders(IDictionary`2): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class CefSharp.SchemeHandlerResponse: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(CefSharp.SchemeHandlerWrapper*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean CloseStream 'get set' : 
+    System.String RedirectUrl 'get set' : 
+    Int32 ContentLength 'get set' : 
+    Int32 StatusCode 'get set' : 
+    System.Collections.Generic.IDictionary`2[System.String,System.String] ResponseHeaders 'get set' : 
+    System.String MimeType 'get set' : 
+    System.IO.Stream ResponseStream 'get set' : 
+  Methods:
+    get_ResponseStream(): PrivateScope, Public, HideBySig, SpecialName
+    set_ResponseStream(Stream): PrivateScope, Public, HideBySig, SpecialName
+    get_MimeType(): PrivateScope, Public, HideBySig, SpecialName
+    set_MimeType(String): PrivateScope, Public, HideBySig, SpecialName
+    get_ResponseHeaders(): PrivateScope, Public, HideBySig, SpecialName
+    set_ResponseHeaders(IDictionary`2): PrivateScope, Public, HideBySig, SpecialName
+    get_StatusCode(): PrivateScope, Public, HideBySig, SpecialName
+    set_StatusCode(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_ContentLength(): PrivateScope, Public, HideBySig, SpecialName
+    set_ContentLength(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_RedirectUrl(): PrivateScope, Public, HideBySig, SpecialName
+    set_RedirectUrl(String): PrivateScope, Public, HideBySig, SpecialName
+    get_CloseStream(): PrivateScope, Public, HideBySig, SpecialName
+    set_CloseStream(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    ReleaseSchemeHandlerWrapper(): PrivateScope, Public, HideBySig
+Class CefSharp.OnRequestCompletedHandler: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Interface CefSharp.ISchemeHandler: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    ProcessRequestAsync(IRequest, SchemeHandlerResponse, OnRequestCompletedHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface CefSharp.ISchemeHandlerFactory: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    Create(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Struct CefSharp.SchemeHandlerWrapper: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct CefSharp.SchemeHandlerWrapper+AutoLock: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class CefSharp.CEF: AutoLayout, AnsiClass, Class, Public, Sealed
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String ChromiumVersion 'get ' : 
+    System.String CefVersion 'get ' : 
+    System.String CefSharpVersion 'get ' : 
+    Boolean IsInitialized 'get ' : 
+  Methods:
+    get_IsInitialized(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_CefSharpVersion(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_CefVersion(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_ChromiumVersion(): PrivateScope, Public, Static, HideBySig, SpecialName
+    Initialize(Settings): PrivateScope, Public, Static, HideBySig
+    RegisterScheme(String, ISchemeHandlerFactory): PrivateScope, Public, Static, HideBySig
+    RegisterScheme(String, String, ISchemeHandlerFactory): PrivateScope, Public, Static, HideBySig
+    RegisterJsObject(String, Object): PrivateScope, Public, Static, HideBySig
+    VisitAllCookies(ICookieVisitor): PrivateScope, Public, Static, HideBySig
+    VisitUrlCookies(String, Boolean(HasFieldMarshal), ICookieVisitor): PrivateScope, Public, Static, HideBySig
+    SetCookie(String, String, String, String, DateTime): PrivateScope, Public, Static, HideBySig
+    SetCookie(String, String, String, String, String, Boolean(HasFieldMarshal), Boolean(HasFieldMarshal), Boolean(HasFieldMarshal), DateTime): PrivateScope, Public, Static, HideBySig
+    DeleteCookies(String, String): PrivateScope, Public, Static, HideBySig
+    SetCookiePath(String): PrivateScope, Public, Static, HideBySig
+    Shutdown(): PrivateScope, Public, Static, HideBySig
+Interface CefSharp.IDownloadHandler: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    ReceivedData(Byte[]): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Complete(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class CefSharp.ConsoleMessageEventArgs: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(System.String, System.String, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 Line 'get ' : 
+    System.String Source 'get ' : 
+    System.String Message 'get ' : 
+  Methods:
+    get_Message(): PrivateScope, Public, HideBySig, SpecialName
+    get_Source(): PrivateScope, Public, HideBySig, SpecialName
+    get_Line(): PrivateScope, Public, HideBySig, SpecialName
+Class CefSharp.ConsoleMessageEventHandler: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, ConsoleMessageEventArgs): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, ConsoleMessageEventArgs, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class CefSharp.LoadCompletedEventArgs: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(System.String, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean IsMainFrame 'get ' : 
+    System.String Url 'get ' : 
+  Methods:
+    get_Url(): PrivateScope, Public, HideBySig, SpecialName
+    get_IsMainFrame(): PrivateScope, Public, HideBySig, SpecialName
+Class CefSharp.LoadCompletedEventHandler: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, LoadCompletedEventArgs): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, LoadCompletedEventArgs, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class CefSharp.LoadStartedEventArgs: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(System.String, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean IsMainFrame 'get ' : 
+    System.String Url 'get ' : 
+  Methods:
+    get_Url(): PrivateScope, Public, HideBySig, SpecialName
+    get_IsMainFrame(): PrivateScope, Public, HideBySig, SpecialName
+Class CefSharp.LoadStartedEventHandler: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, LoadStartedEventArgs): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Object, LoadStartedEventArgs, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Interface CefSharp.IWebBrowser: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Interfaces:
+    System.IDisposable
+    System.ComponentModel.INotifyPropertyChanged
+  Properties:
+    CefSharp.IJsDialogHandler JsDialogHandler 'get set' : 
+    CefSharp.IKeyboardHandler KeyboardHandler 'get set' : 
+    CefSharp.IMenuHandler MenuHandler 'get set' : 
+    CefSharp.IRequestHandler RequestHandler 'get set' : 
+    CefSharp.ILoadHandler LoadHandler 'get set' : 
+    CefSharp.ILifeSpanHandler LifeSpanHandler 'get set' : 
+    System.String TooltipText 'get set' : 
+    System.String Title 'get set' : 
+    System.String Address 'get set' : 
+    Int32 ContentsHeight 'get set' : 
+    Int32 ContentsWidth 'get set' : 
+    Boolean CanGoForward 'get ' : 
+    Boolean CanGoBack 'get ' : 
+    Boolean IsLoading 'get ' : 
+    Boolean IsBrowserInitialized 'get ' : 
+  Events:
+    CefSharp.LoadCompletedEventHandler LoadCompleted: SpecialName
+    CefSharp.ConsoleMessageEventHandler ConsoleMessage: SpecialName
+  Methods:
+    add_ConsoleMessage(ConsoleMessageEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    remove_ConsoleMessage(ConsoleMessageEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    add_LoadCompleted(LoadCompletedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    remove_LoadCompleted(LoadCompletedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_IsBrowserInitialized(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_IsLoading(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_CanGoBack(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_CanGoForward(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_ContentsWidth(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_ContentsWidth(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_ContentsHeight(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_ContentsHeight(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_Address(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_Address(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_Title(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_Title(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_TooltipText(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_TooltipText(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_LifeSpanHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_LifeSpanHandler(ILifeSpanHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_LoadHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_LoadHandler(ILoadHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_RequestHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_RequestHandler(IRequestHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_MenuHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_MenuHandler(IMenuHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_KeyboardHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_KeyboardHandler(IKeyboardHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_JsDialogHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_JsDialogHandler(IJsDialogHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    OnInitialized(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Load(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    LoadHtml(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Stop(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Back(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Forward(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Reload(Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Reload(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    ClearHistory(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    ShowDevTools(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    CloseDevTools(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Undo(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Redo(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Cut(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Copy(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Paste(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Delete(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    SelectAll(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Print(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    SetNavState(Boolean(HasFieldMarshal), Boolean(HasFieldMarshal), Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OnFrameLoadStart(String, Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OnFrameLoadEnd(String, Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OnTakeFocus(Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OnConsoleMessage(String, String, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    RegisterJsObject(String, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    GetBoundObjects(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    GetBrowserIdentifier(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface CefSharp.ILifeSpanHandler: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    OnBeforePopup(IWebBrowser, String, Int32&, Int32&, Int32&, Int32&): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OnBeforeClose(IWebBrowser): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface CefSharp.ILoadHandler: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    OnLoadError(IWebBrowser, String, Int32, String&): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface CefSharp.IRequestResponse: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Properties:
+    CefSharp.IRequest Request 'get ' : 
+  Methods:
+    Cancel(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    get_Request(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    Redirect(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    RespondWith(Stream, String, String, Int32, IDictionary`2): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    RespondWith(Stream, String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface CefSharp.IRequestHandler: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    OnBeforeBrowse(IWebBrowser, IRequest, NavigationType, Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OnBeforeResourceLoad(IWebBrowser, IRequestResponse): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OnResourceResponse(IWebBrowser, String, Int32, String, String, WebHeaderCollection): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    GetDownloadHandler(IWebBrowser, String, String, Int64, IDownloadHandler&): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    GetAuthCredentials(IWebBrowser, Boolean(HasFieldMarshal), String, Int32, String, String, String&, String&): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    GetResponseContent(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface CefSharp.IMenuHandler: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    OnBeforeMenu(IWebBrowser): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface CefSharp.IKeyboardHandler: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    OnKeyEvent(IWebBrowser, KeyType, Int32, Int32, Boolean(HasFieldMarshal), Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface CefSharp.IJsDialogHandler: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    OnJSAlert(IWebBrowser, String, String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OnJSConfirm(IWebBrowser, String, String, Boolean* IsImplicitlyDereferenced): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OnJSPrompt(IWebBrowser, String, String, String, Boolean* IsImplicitlyDereferenced, String&): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Struct CefSharp.LogSeverity: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    CefSharp.LogSeverity Verbose = -1 : Public, Static, Literal, HasDefault
+    CefSharp.LogSeverity Info = 0 : Public, Static, Literal, HasDefault
+    CefSharp.LogSeverity Warning = 1 : Public, Static, Literal, HasDefault
+    CefSharp.LogSeverity Error = 2 : Public, Static, Literal, HasDefault
+    CefSharp.LogSeverity ErrorReport = 3 : Public, Static, Literal, HasDefault
+    CefSharp.LogSeverity Disable = 99 : Public, Static, Literal, HasDefault
+Struct CefSharp.NavigationType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    CefSharp.NavigationType LinkClicked = 0 : Public, Static, Literal, HasDefault
+    CefSharp.NavigationType FormSubmitted = 1 : Public, Static, Literal, HasDefault
+    CefSharp.NavigationType BackForward = 2 : Public, Static, Literal, HasDefault
+    CefSharp.NavigationType Reload = 3 : Public, Static, Literal, HasDefault
+    CefSharp.NavigationType FormResubmitted = 4 : Public, Static, Literal, HasDefault
+    CefSharp.NavigationType Other = 5 : Public, Static, Literal, HasDefault
+    CefSharp.NavigationType LinkDropped = 6 : Public, Static, Literal, HasDefault
+Struct CefSharp.KeyType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    CefSharp.KeyType RawKeyDown = 0 : Public, Static, Literal, HasDefault
+    CefSharp.KeyType KeyDown = 1 : Public, Static, Literal, HasDefault
+    CefSharp.KeyType KeyUp = 2 : Public, Static, Literal, HasDefault
+    CefSharp.KeyType Char = 3 : Public, Static, Literal, HasDefault
+Interface CefSharp.IRenderWebBrowser: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Interfaces:
+    CefSharp.IWebBrowser
+    System.IDisposable
+    System.ComponentModel.INotifyPropertyChanged
+  Methods:
+    SetCursor(IntPtr): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    SetBuffer(Int32, Int32, Void*): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    SetPopupBuffer(Int32, Int32, Void*): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    SetPopupIsOpen(Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    SetPopupSizeAndPosition(Void*): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class CefSharp.ScriptException: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Exception
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

@@ -1,0 +1,1202 @@
+[ERROR] - 2016-12-22 15:44:06,284 - CefSharp.WinForms.Example.Program.Main - program is start
+[INFO ] - 2016-12-22 15:49:00,804 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - data copy completed
+[ERROR] - 2016-12-22 15:49:00,924 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_get_nickname - 值不能为 null。
+参数名: value
+[ERROR] - 2016-12-22 16:04:18,654 - CefSharp.WinForms.Example.Program.Main - program is start
+[INFO ] - 2016-12-22 16:07:43,453 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - data copy completed
+[ERROR] - 2016-12-22 16:43:45,478 - CefSharp.WinForms.Example.Program.Main - program is start
+[INFO ] - 2016-12-22 16:45:34,855 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - data copy completed
+[ERROR] - 2016-12-22 17:57:38,485 - CefSharp.WinForms.Example.Program.Main - program is start
+[INFO ] - 2016-12-22 17:58:45,309 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - data copy completed
+[ERROR] - 2016-12-22 18:07:47,759 - CefSharp.WinForms.Example.Program.Main - program is start
+[INFO ] - 2016-12-22 18:08:51,064 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - data copy completed
+[ERROR] - 2016-12-22 18:11:09,586 - CefSharp.WinForms.Example.Program.Main - program is start
+[INFO ] - 2016-12-22 18:12:05,757 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - data copy completed
+[ERROR] - 2016-12-22 18:14:38,803 - CefSharp.WinForms.Example.Program.Main - program is start
+[INFO ] - 2016-12-22 18:15:18,396 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - data copy completed
+[ERROR] - 2016-12-22 18:24:16,978 - CefSharp.WinForms.Example.Program.Main - program is start
+[INFO ] - 2016-12-22 18:25:46,536 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - data copy completed
+[ERROR] - 2016-12-22 20:18:36,689 - CefSharp.WinForms.Example.Program.Main - program is start
+[ERROR] - 2016-12-24 21:35:41,354 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - SQL logic error or missing database
+no such table: raw_data_14
+[ERROR] - 2017-01-02 13:06:46,171 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - SQL logic error or missing database
+no such table: raw_data_6
+[ERROR] - 2017-01-02 13:07:07,244 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - SQL logic error or missing database
+no such table: raw_data_6
+[ERROR] - 2017-01-02 13:19:58,434 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - SQL logic error or missing database
+no such table: raw_data_7
+[ERROR] - 2017-01-02 13:47:10,618 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - SQL logic error or missing database
+no such table: raw_data_4
+[ERROR] - 2017-01-02 20:26:25,566 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_get_nickname - Path returned multiple tokens.
+[ERROR] - 2017-01-02 21:15:07,102 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_get_nickname - Path returned multiple tokens.
+[ERROR] - 2017-01-03 22:26:05,826 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - SQL logic error or missing database
+no such table: raw_data_7
+[ERROR] - 2017-01-04 14:21:39,414 - CefSharp.WinForms.Example.Mapper.RawDataMapper.insertData - SQL logic error or missing database
+no such table: raw_data_78
+[ERROR] - 2017-01-04 14:22:24,271 - CefSharp.WinForms.Example.Mapper.RawDataMapper.insertData - SQL logic error or missing database
+no such table: raw_data_79
+[ERROR] - 2017-01-04 14:23:09,112 - CefSharp.WinForms.Example.Mapper.RawDataMapper.insertData - SQL logic error or missing database
+no such table: raw_data_79
+[ERROR] - 2017-01-04 14:23:30,686 - CefSharp.WinForms.Example.Mapper.RawDataMapper.insertData - SQL logic error or missing database
+no such table: raw_data_78
+[ERROR] - 2017-01-04 14:26:26,030 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - SQL logic error or missing database
+no such table: raw_data_79
+[ERROR] - 2017-01-04 14:29:13,036 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - SQL logic error or missing database
+no such table: raw_data_78
+[ERROR] - 2017-01-04 15:14:58,557 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.step_copy_data - SQL logic error or missing database
+no such table: raw_data_4
+[ERROR] - 2017-01-08 14:41:46,070 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:41:46,521 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:41:47,320 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:41:47,495 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:41:47,783 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:41:47,865 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:41:48,198 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:41:48,287 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:41:48,681 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:41:48,749 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:42:15,277 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 14:42:15,342 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:43,775 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:43,995 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:44,276 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:44,486 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:44,890 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:45,796 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:46,039 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:46,548 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:46,692 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:46,952 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:47,396 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:47,996 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:48,264 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:48,790 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:49,104 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:49,493 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:50,022 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:50,334 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:50,439 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:50,646 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:50,723 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:51,215 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:55,223 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:55,381 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-08 15:24:55,445 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-11 16:06:00,350 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-11 16:06:00,681 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-11 16:06:01,133 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-11 16:06:01,473 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-11 16:06:05,009 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-11 16:06:06,176 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '10.211.55.2' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'windows-7.shared' (using password: YES)
+[ERROR] - 2017-01-11 16:11:25,163 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:25,368 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:25,850 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:26,263 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:29,675 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:30,106 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:30,595 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:30,684 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:31,282 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:31,796 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:32,280 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:32,813 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:33,435 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:33,836 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:34,488 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:34,987 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:35,543 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 16:11:36,205 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' (using password: YES)
+[ERROR] - 2017-01-11 21:39:15,576 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Host '192.168.1.100' is not allowed to connect to this MySQL server
+[ERROR] - 2017-01-11 21:39:15,701 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Host '192.168.1.100' is not allowed to connect to this MySQL server
+[ERROR] - 2017-01-11 21:39:16,170 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Host '192.168.1.100' is not allowed to connect to this MySQL server
+[ERROR] - 2017-01-11 21:39:16,623 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Host '192.168.1.100' is not allowed to connect to this MySQL server
+[ERROR] - 2017-01-11 21:39:21,982 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Host '192.168.1.100' is not allowed to connect to this MySQL server
+[ERROR] - 2017-01-11 21:39:23,107 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Host '192.168.1.100' is not allowed to connect to this MySQL server
+[ERROR] - 2017-01-11 21:50:13,029 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:50:13,139 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:50:13,185 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:50:13,654 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:50:14,107 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:50:17,467 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:50:18,060 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:50:18,404 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:50:18,592 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:03,685 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:03,826 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:03,904 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:04,264 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:04,342 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:04,529 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:04,685 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:05,154 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:05,779 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:06,326 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:06,560 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:07,092 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:07,717 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:08,139 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:08,701 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:09,170 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:09,717 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:10,232 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:10,764 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:11,279 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:11,795 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:12,373 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:12,717 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:13,310 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:13,732 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:14,264 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:14,685 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:15,279 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:15,748 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:16,248 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:16,717 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-11 21:51:17,279 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Authentication to host '192.168.1.100' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'192.168.1.100' to database 'wechat_msg'
+[ERROR] - 2017-01-12 09:55:44,505 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-12 09:55:59,708 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-12 09:56:14,926 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-12 09:56:29,958 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-12 09:56:45,005 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-12 16:56:49,099 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Database is not open
+System.InvalidOperationException: Database is not open
+   在 System.Data.SQLite.SQLiteCommand.InitializeForReader()
+   在 System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   在 System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 46
+[ERROR] - 2017-01-12 16:56:49,130 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Database is not open
+System.InvalidOperationException: Database is not open
+   在 System.Data.SQLite.SQLiteCommand.InitializeForReader()
+   在 System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   在 System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 46
+[ERROR] - 2017-01-12 17:03:01,157 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Connection must be valid and open.
+System.InvalidOperationException: Connection must be valid and open.
+   在 MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 30
+[ERROR] - 2017-01-12 17:03:01,188 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Connection must be valid and open.
+System.InvalidOperationException: Connection must be valid and open.
+   在 MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 30
+[ERROR] - 2017-01-14 09:53:18,670 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 22
+[ERROR] - 2017-01-14 09:53:20,076 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 22
+[ERROR] - 2017-01-14 09:53:21,311 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-14 09:53:23,748 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-14 09:53:25,498 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-14 09:53:26,920 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-15 12:09:09,082 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 22
+[ERROR] - 2017-01-15 12:09:10,504 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 22
+[ERROR] - 2017-01-15 12:09:11,598 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-15 12:09:11,817 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-15 12:09:12,348 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-15 12:09:12,676 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-15 12:09:18,692 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-01-15 12:09:19,910 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-02-20 17:59:24,281 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checklogin - Unknown column 'laker' in 'where clause'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'laker' in 'where clause'
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checklogin(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 26
+[ERROR] - 2017-02-20 21:04:44,919 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Duplicate entry '2188710002' for key 'PRIMARY'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '2188710002' for key 'PRIMARY'
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 29
+[ERROR] - 2017-02-20 21:04:44,997 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Duplicate entry '2188710002' for key 'PRIMARY'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '2188710002' for key 'PRIMARY'
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 29
+[ERROR] - 2017-02-21 22:03:47,590 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - There is already an open DataReader associated with this Connection which must be closed first.
+MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 46
+[ERROR] - 2017-02-21 22:03:47,621 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - There is already an open DataReader associated with this Connection which must be closed first.
+MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 46
+[ERROR] - 2017-02-21 22:04:26,858 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - There is already an open DataReader associated with this Connection which must be closed first.
+MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 46
+[ERROR] - 2017-02-21 22:04:28,514 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - There is already an open DataReader associated with this Connection which must be closed first.
+MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 46
+[ERROR] - 2017-02-24 18:57:11,740 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-02-24 18:57:11,740 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-02-24 18:57:11,803 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-02-24 18:57:11,803 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-02-24 19:02:25,871 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-02-24 19:02:26,699 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-02-24 19:02:26,746 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unable to connect to any of the specified MySQL hosts.
+[ERROR] - 2017-02-27 11:15:10,100 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-01 10:54:30,358 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkOrgValid - Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkOrgValid(String orgId) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 23
+[ERROR] - 2017-03-01 11:01:11,184 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkOrgValid - Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkOrgValid(String orgId) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 23
+[ERROR] - 2017-03-01 11:04:18,278 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkOrgValid - Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkOrgValid(String orgId) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 23
+[ERROR] - 2017-03-01 11:06:44,374 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-01 11:12:22,062 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-01 11:18:37,966 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-01 11:19:36,116 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkOrgValid - The connection is already open.
+System.InvalidOperationException: The connection is already open.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkOrgValid(String orgId) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 23
+[ERROR] - 2017-03-01 11:22:36,061 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-01 11:22:44,029 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-01 11:22:52,123 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-01 11:23:13,404 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-01 16:43:37,140 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - 发生一个或多个错误。
+System.AggregateException: 发生一个或多个错误。 ---> System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.105:80
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   在 System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   在 System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   在 System.Threading.Tasks.Task`1.get_Result()
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 34
+---> (内部异常 #0) System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.105:80
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   在 System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---<---
+
+[ERROR] - 2017-03-01 16:44:52,218 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - 发生一个或多个错误。
+System.AggregateException: 发生一个或多个错误。 ---> System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.105:80
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   在 System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   在 System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   在 System.Threading.Tasks.Task`1.get_Result()
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 34
+---> (内部异常 #0) System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.105:80
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   在 System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---<---
+
+[ERROR] - 2017-03-01 17:26:35,121 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - 值不能为 null。
+参数名: value
+System.ArgumentNullException: 值不能为 null。
+参数名: value
+   在 Newtonsoft.Json.Linq.JToken.EnsureValue(JToken value)
+   在 Newtonsoft.Json.Linq.JToken.op_Explicit(JToken value)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 45
+[ERROR] - 2017-03-01 17:26:35,152 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-01 17:45:06,781 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - Can not convert Null to Int32.
+System.ArgumentException: Can not convert Null to Int32.
+   在 Newtonsoft.Json.Linq.JToken.op_Explicit(JToken value)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 48
+[ERROR] - 2017-03-01 17:45:06,812 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-04 18:01:54,275 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - UPDATE command denied to user 'chatclient'@'192.168.1.103' for table 'wx_account'
+MySql.Data.MySqlClient.MySqlException (0x80004005): UPDATE command denied to user 'chatclient'@'192.168.1.103' for table 'wx_account'
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 32
+[ERROR] - 2017-03-04 18:01:54,353 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - UPDATE command denied to user 'chatclient'@'192.168.1.103' for table 'wx_account'
+MySql.Data.MySqlClient.MySqlException (0x80004005): UPDATE command denied to user 'chatclient'@'192.168.1.103' for table 'wx_account'
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 32
+[ERROR] - 2017-03-04 18:01:54,744 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 83
+[ERROR] - 2017-03-04 18:01:54,853 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 83
+[ERROR] - 2017-03-04 18:01:55,619 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 69
+[ERROR] - 2017-03-04 18:01:59,291 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 69
+[ERROR] - 2017-03-04 18:01:59,666 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 83
+[ERROR] - 2017-03-04 18:02:00,041 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 83
+[ERROR] - 2017-03-04 18:02:00,588 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 69
+[ERROR] - 2017-03-04 18:11:08,139 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 83
+[ERROR] - 2017-03-04 18:11:08,398 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 83
+[ERROR] - 2017-03-04 18:11:09,701 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 69
+[ERROR] - 2017-03-04 18:11:13,405 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 83
+[ERROR] - 2017-03-04 18:11:14,476 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 69
+[ERROR] - 2017-03-04 18:16:06,633 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 69
+[ERROR] - 2017-03-04 18:16:12,820 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 69
+[ERROR] - 2017-03-04 20:04:06,173 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 44
+[ERROR] - 2017-03-04 20:04:06,205 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-04 20:15:35,903 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 45
+[ERROR] - 2017-03-04 20:15:35,934 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-05 16:38:29,360 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 16:38:29,410 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 16:38:30,616 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 16:38:34,567 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 16:38:35,865 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 16:45:56,906 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 16:45:57,077 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 16:45:57,939 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 16:46:00,545 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 16:46:02,447 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 16:46:04,035 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 17:02:27,383 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 17:02:27,542 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 17:02:28,574 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 17:02:33,291 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 17:02:34,390 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 75
+[ERROR] - 2017-03-05 17:59:37,550 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawData rawData) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:29:42,094 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:29:42,548 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:29:44,031 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:29:46,933 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:29:48,307 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:05,806 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:05,864 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:08,059 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:10,315 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:10,315 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:10,905 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:11,604 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:11,783 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:12,169 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:13,382 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:13,562 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:14,022 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:15,030 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:15,212 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:15,490 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:15,773 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:16,733 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:17,131 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:39:17,233 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-05 20:43:25,714 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 79
+[ERROR] - 2017-03-06 16:12:26,116 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 45
+[ERROR] - 2017-03-06 16:12:26,171 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-06 16:14:49,411 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 77
+[ERROR] - 2017-03-06 16:20:40,379 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-06 16:45:39,689 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - 值不能为 null。
+参数名: value
+System.ArgumentNullException: 值不能为 null。
+参数名: value
+   在 Newtonsoft.Json.Linq.JToken.EnsureValue(JToken value)
+   在 Newtonsoft.Json.Linq.JToken.op_Explicit(JToken value)
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 78
+[ERROR] - 2017-03-06 16:49:26,114 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - 值不能为 null。
+参数名: value
+System.ArgumentNullException: 值不能为 null。
+参数名: value
+   在 Newtonsoft.Json.Linq.JToken.EnsureValue(JToken value)
+   在 Newtonsoft.Json.Linq.JToken.op_Explicit(JToken value)
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 78
+[ERROR] - 2017-03-06 16:53:16,419 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - 值不能为 null。
+参数名: value
+System.ArgumentNullException: 值不能为 null。
+参数名: value
+   在 Newtonsoft.Json.Linq.JToken.EnsureValue(JToken value)
+   在 Newtonsoft.Json.Linq.JToken.op_Explicit(JToken value)
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 78
+[ERROR] - 2017-03-06 17:01:56,368 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - 值不能为 null。
+参数名: value
+System.ArgumentNullException: 值不能为 null。
+参数名: value
+   在 Newtonsoft.Json.Linq.JToken.EnsureValue(JToken value)
+   在 Newtonsoft.Json.Linq.JToken.op_Explicit(JToken value)
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 78
+[ERROR] - 2017-03-06 17:02:07,352 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-06 17:02:09,110 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:02:09,170 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:02:09,431 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:02:10,247 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:02:13,762 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:02:16,038 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:02:50,345 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-06 17:09:57,350 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-06 17:10:21,375 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:10:21,621 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:10:26,627 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:10:27,104 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:18:29,967 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-06 17:18:38,337 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:31:17,243 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-06 17:31:32,856 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 17:31:32,862 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - illegal call
+[ERROR] - 2017-03-06 18:24:30,830 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 72
+[ERROR] - 2017-03-07 11:17:08,403 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 45
+[ERROR] - 2017-03-07 11:17:08,434 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-07 11:17:40,669 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 45
+[ERROR] - 2017-03-07 11:17:40,684 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-07 14:26:09,626 - CefSharp.WinForms.Example.LoginForm.GenerateVerifyCode - 请求被中止: 操作超时。
+System.Net.WebException: 请求被中止: 操作超时。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CefSharp.WinForms.Example.LoginForm.GenerateVerifyCode() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\LoginForm.cs:行号 139
+[ERROR] - 2017-03-11 10:27:19,700 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-11 10:27:19,762 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-11 10:28:09,450 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-11 10:28:09,481 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-11 10:29:13,751 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 34
+[ERROR] - 2017-03-11 10:34:03,777 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 34
+[ERROR] - 2017-03-11 10:48:39,108 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 34
+[ERROR] - 2017-03-11 10:51:05,638 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 10:56:35,559 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 10:58:32,429 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 11:03:52,788 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 11:39:02,601 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 11:40:22,317 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 11:47:51,703 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 12:38:27,871 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 12:48:35,274 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 12:55:16,603 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 13:08:30,432 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 13:27:52,173 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - <pre class='xdebug-var-dump' dir='ltr'><small>int</small> <font color='#4e9a06'>0</font>
+</pre>
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 40
+[ERROR] - 2017-03-11 13:38:03,121 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 13:40:32,411 - CefSharp.WinForms.Example.Mapper.WxAccountMapper+<updateStatus>d__0.MoveNext - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.<updateStatus>d__0.MoveNext() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 35
+[ERROR] - 2017-03-11 14:06:21,858 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 36
+[ERROR] - 2017-03-11 15:12:23,023 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus(WxAccount account) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\WxAccountMapper.cs:行号 37
+[ERROR] - 2017-03-12 23:02:36,653 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 45
+[ERROR] - 2017-03-12 23:02:36,685 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-13 11:10:56,460 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - The format of value 'application/json;charset=utf-8' is invalid.
+System.FormatException: The format of value 'application/json;charset=utf-8' is invalid.
+   在 System.Net.Http.Headers.MediaTypeHeaderValue.CheckMediaTypeFormat(String mediaType, String parameterName)
+   在 System.Net.Http.Headers.MediaTypeHeaderValue..ctor(String mediaType)
+   在 System.Net.Http.StringContent..ctor(String content, Encoding encoding, String mediaType)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 37
+[ERROR] - 2017-03-13 11:10:56,491 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-13 11:11:28,570 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - The format of value 'application/json;charset=utf-8' is invalid.
+System.FormatException: The format of value 'application/json;charset=utf-8' is invalid.
+   在 System.Net.Http.Headers.MediaTypeHeaderValue.CheckMediaTypeFormat(String mediaType, String parameterName)
+   在 System.Net.Http.Headers.MediaTypeHeaderValue..ctor(String mediaType)
+   在 System.Net.Http.StringContent..ctor(String content, Encoding encoding, String mediaType)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 37
+[ERROR] - 2017-03-13 11:11:28,585 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-13 11:12:15,460 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - The format of value 'application/json;charset=utf-8' is invalid.
+System.FormatException: The format of value 'application/json;charset=utf-8' is invalid.
+   在 System.Net.Http.Headers.MediaTypeHeaderValue.CheckMediaTypeFormat(String mediaType, String parameterName)
+   在 System.Net.Http.Headers.MediaTypeHeaderValue..ctor(String mediaType)
+   在 System.Net.Http.StringContent..ctor(String content, Encoding encoding, String mediaType)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 37
+[ERROR] - 2017-03-13 11:12:15,476 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-13 14:07:49,116 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 49
+[ERROR] - 2017-03-13 14:07:49,116 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 49
+[ERROR] - 2017-03-13 14:07:49,398 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 49
+[ERROR] - 2017-03-13 14:07:49,991 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 31
+[ERROR] - 2017-03-13 14:07:53,554 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 49
+[ERROR] - 2017-03-13 14:07:54,632 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 31
+[ERROR] - 2017-03-13 15:13:11,284 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 44
+[ERROR] - 2017-03-13 15:13:11,316 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-13 15:28:58,360 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 49
+[ERROR] - 2017-03-13 15:28:58,391 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 49
+[ERROR] - 2017-03-13 15:28:58,641 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 49
+[ERROR] - 2017-03-13 15:28:59,250 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 31
+[ERROR] - 2017-03-13 15:29:02,797 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 49
+[ERROR] - 2017-03-13 15:29:03,750 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - 无效的 URI: URI 字符串太长。
+System.UriFormatException: 无效的 URI: URI 字符串太长。
+   在 System.UriHelper.EscapeString(String input, Int32 start, Int32 end, Char[] dest, Int32& destPos, Boolean isUriString, Char force1, Char force2, Char rsvd)
+   在 System.Uri.EscapeDataString(String stringToEscape)
+   在 System.Net.Http.FormUrlEncodedContent.Encode(String data)
+   在 System.Net.Http.FormUrlEncodedContent.GetContentByteArray(IEnumerable`1 nameValueCollection)
+   在 System.Net.Http.FormUrlEncodedContent..ctor(IEnumerable`1 nameValueCollection)
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 31
+[ERROR] - 2017-03-13 15:30:39,251 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-13 15:30:39,767 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 39
+[ERROR] - 2017-03-13 15:30:39,767 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 39
+[ERROR] - 2017-03-13 15:30:39,986 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 39
+[ERROR] - 2017-03-13 15:30:40,939 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 39
+[ERROR] - 2017-03-13 15:30:44,220 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 39
+[ERROR] - 2017-03-13 15:30:45,345 - CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData - Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.RawDataFactoryMapper.insertData(RawDataFactory rawDataFactory) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\RawDataFactoryMapper.cs:行号 39
+[ERROR] - 2017-03-13 15:42:43,736 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-13 15:43:01,173 - CefSharp.WinForms.Example.Mapper.WxAccountMapper.updateStatus - illegal call
+[ERROR] - 2017-03-16 15:58:43,278 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   在 System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 44
+[ERROR] - 2017-03-16 15:58:43,309 - CefSharp.WinForms.Example.LoginForm.loginbtn_Click - file read error!
+[ERROR] - 2017-03-19 18:07:09,612 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - 发生一个或多个错误。
+System.AggregateException: 发生一个或多个错误。 ---> System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.103:80
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   在 System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   在 System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   在 System.Threading.Tasks.Task`1.get_Result()
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 42
+---> (内部异常 #0) System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.103:80
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   在 System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---<---
+
+[ERROR] - 2017-03-19 18:12:39,094 - CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid - Can not convert Null to Int32.
+System.ArgumentException: Can not convert Null to Int32.
+   在 Newtonsoft.Json.Linq.JToken.op_Explicit(JToken value)
+   在 CefSharp.WinForms.Example.Mapper.SysUserMapper.checkValid(SysUser user) 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\Mapper\SysUserMapper.cs:行号 57
+[ERROR] - 2017-03-21 13:24:24,816 - CefSharp.WinForms.Example.LoginForm.GenerateVerifyCode - 操作超时
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CefSharp.WinForms.Example.LoginForm.GenerateVerifyCode() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\LoginForm.cs:行号 135
+[ERROR] - 2017-03-21 13:28:09,396 - CefSharp.WinForms.Example.LoginForm.GenerateVerifyCode - 操作超时
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CefSharp.WinForms.Example.LoginForm.GenerateVerifyCode() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\LoginForm.cs:行号 136
+[ERROR] - 2017-03-21 13:29:22,803 - CefSharp.WinForms.Example.LoginForm.GenerateVerifyCode - 操作超时
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CefSharp.WinForms.Example.LoginForm.GenerateVerifyCode() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\LoginForm.cs:行号 136
+[ERROR] - 2017-03-21 13:30:00,500 - CefSharp.WinForms.Example.LoginForm.GenerateVerifyCode - 操作超时
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 CefSharp.WinForms.Example.LoginForm.GenerateVerifyCode() 位置 c:\project\CefSharp-v1.25.8-binaries-mysql - secure - raw-http\CefSharp.WinForms.Example\LoginForm.cs:行号 136
